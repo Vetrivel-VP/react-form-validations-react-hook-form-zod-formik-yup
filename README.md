@@ -35,21 +35,18 @@ The project includes two separate forms demonstrating:
 
 ```
 https://github.com/Vetrivel-VP/react-form-validations-react-hook-form-zod-formik-yup.git
-
 ```
 
 > Install dependencies
 
 ```
 npm install
-
 ```
 
 > Start the development server
 
 ```
 npm run dev
-
 ```
 
 # Contributing
