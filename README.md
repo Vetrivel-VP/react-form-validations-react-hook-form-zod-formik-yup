@@ -34,6 +34,25 @@ The project includes two separate forms demonstrating:
 > Clone this repository
 
 ```
-git clone react-form-validations-react-hook-form-zod-formik-yup
+https://github.com/Vetrivel-VP/react-form-validations-react-hook-form-zod-formik-yup.git
 
 ```
+
+> Install dependencies
+
+```
+npm install
+
+```
+
+> Start the development server
+
+```
+npm run dev
+
+```
+
+# Contributing
+
+> Contributions are welcome!
+> If you find any issues or want to improve the project, feel free to submit a pull request.
